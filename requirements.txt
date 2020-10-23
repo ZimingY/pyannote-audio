@@ -1,11 +1,10 @@
 cachetools >= 2.0.0
-librosa == 0.7.2
-numba==0.48.0  # TODO: remove once librosa 0.8 is out
+librosa >= 0.8.0
 pandas >= 0.18.0
 pyannote.core >= 4.1
 pyannote.database >= 4.0
 pyannote.metrics >= 2.3
-pyannote.pipeline >= 1.5
+pyannote.pipeline >= 1.5.2
 pyYAML >= 3.12
 scikit-learn >= 0.20.2
 sortedcollections >= 1.0.1
